@@ -1,4 +1,4 @@
-### Cancer Gene Expression Data Analysis with Autoencoder Feature Extraction
+# Cancer Gene Expression Data Analysis with Autoencoder Feature Extraction
 This project explores the application of autoencoder models in the analysis of cancer gene expression data. The goal is to leverage autoencoder architecture to perform feature extraction from gene expression data, facilitating downstream analysis such as cancer classification, subtype identification, or prognosis prediction.
 
 # Overview

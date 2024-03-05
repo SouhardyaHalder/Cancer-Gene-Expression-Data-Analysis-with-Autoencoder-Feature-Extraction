@@ -25,7 +25,7 @@ Feature Extraction: Extract features from the bottleneck layer of the trained au
 Analysis and Visualization: Analyze and visualize the extracted features to gain insights into the underlying gene expression patterns.
 
 # Dependencies
-Python 3.x
+Python 3
 TensorFlow / PyTorch
 Pandas, NumPy, Matplotlib
 scikit-learn
